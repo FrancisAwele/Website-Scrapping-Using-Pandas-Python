@@ -1,0 +1,2 @@
+In this project, leverage Python for web scraping and Pandas for data manipulation and analysis. Utilized Python libraries like requests and BeautifulSoup to fetch HTML data from target websites. This involves sending HTTP requests, parsing HTML content, and extracting relevant data such as text, tables, or specific elements. This project demonstrates the power of Python and Pandas in web scraping and data analysis, enabling users to gather, process, and interpret data from diverse online sources efficiently.
+
